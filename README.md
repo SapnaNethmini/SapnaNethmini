@@ -1,5 +1,8 @@
+<img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
+
 <h1 align="center">Hi 👋, I'm Sapna Nethmini</h1>
-<h3 align="center">B.Sc in Computer Science Undergraduate</h3>
+<h3 align="center">B.Sc in Computer Science </h3>
+<h3 align="center">Undergraduate </h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
@@ -11,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sapna nethmini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sapna nethmini" height="30" width="40" /></a>
-<a href="https://instagram.com/sapna nethmini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sapna nethmini" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sapnanethmini98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sapnanethmini98" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sapna-nethmini-8a0365283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sapna nethmini" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sapnanethmini98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sapnanethmini98" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sapna_nethmini_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sapna nethmini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
